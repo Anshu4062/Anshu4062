@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Anshu4062.Anshu4062" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suryansh+Singh!;" />
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **GSAP, Appwrite**
 
-💬 Ask me about **Node.js, React JS, PostgreSQL... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React JS, PostgreSQL... or anything [here](https://linkedin.com/in/suryansh-singh-75b743232)**
 
 ⚡  **I look building mind blowing animated websites with the power of Framer Motion**
 
