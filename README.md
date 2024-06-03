@@ -46,7 +46,7 @@
 <br/>
 
 <div align="center">
-<a href='https://buymeacoffee.com/supremesos' target='_blank'><img height='64' style='border-radius:30%;height:64px;' src='coffeev4.png' border='0' alt='Buy Me a Coffee' /></a>
+<a href='https://buymeacoffee.com/supremesos' target='_blank'><img style='border-radius:30%;height:64px;' src='coffeev4.png' border='0' alt='Buy Me a Coffee' /></a>
 </div>
 
 <br/>
