@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a supernatural news website**
  
- 🌱 I’m currently learning **GSAP, Appwrite**
+ 🌱 I’m currently learning **Three JS**
 
 💬 Ask me about **Node.js, React JS, PostgreSQL... or anything [here](https://linkedin.com/in/suryansh-singh-75b743232)**
 
