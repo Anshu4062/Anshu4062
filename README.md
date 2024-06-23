@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React JS, PostgreSQL... or anything [here](https://linkedin.com/in/suryansh-singh-75b743232)**
 
-⚡  **I look building mind blowing animated websites with the power of Framer Motion**
+⚡  **I look building mind blowing animated websites with the power of Framer Motion, GSAP and Three JS**
 
  </div>
  
