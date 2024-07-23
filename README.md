@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Online Tutor System and Vinut-a drink selling company Rebranding**
  
- 🌱 I’m currently learning **Three JS, Figma**
+ 🌱 I’m currently learning **Three JS**
 
 💬 Ask me about **Node.js, React JS, PostgreSQL... or anything [here](https://linkedin.com/in/suryansh-singh-75b743232)**
 
