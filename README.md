@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Online Tutor System**
+ 🔭 I’m currently working on **a UI/UX project**
  
- 🌱 I’m currently learning **Three JS and Figma**
+ 🌱 I’m currently learning **Webflow and Framer**
 
 💬 Connect with me [here](https://linkedin.com/in/suryansh-singh-75b743232)**
 
