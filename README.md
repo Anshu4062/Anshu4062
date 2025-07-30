@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Anshu4062.Anshu4062" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suryansh+Singh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suryansh!;" />
 </h1>
 
 <h3 align="center">A passionate UI/UX Designer and Full Stack Developer.</h3>
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Webflow and Framer**
 
-💬 Connect with me [here](https://linkedin.com/in/suryansh-singh-75b743232)**
+💬 Connect with me [here](https://linkedin.com/in/suryansh-singh-75b743232)
 
 ⚡  **I look building mind blowing animated websites with the power of Framer Motion, GSAP and Three JS**
 
